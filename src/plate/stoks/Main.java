@@ -19,6 +19,7 @@ public class Main {
         storageList.put(600, 100);
         storageList.put(601, 600);
         storageList.put(301, 600);
+        storageList.put(202, 600);
 
         int widthDet = 100; //Ширина деталі
         int lengthDet = 200; //Довжина довжина
