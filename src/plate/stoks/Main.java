@@ -45,8 +45,8 @@ public class Main {
                 count += (width / widthDet) * (length / lengthDet);
                 System.out.println("ok (+" + (width / widthDet) * (length / lengthDet) + ")");
             } else if (width >= lengthDet && length >= widthDet) {
-                    count += (width / lengthDet) * (length / widthDet);
-                    System.out.println("ok (+" + (width / lengthDet) * (length / widthDet) + ") - 90deg");
+                count += (width / lengthDet) * (length / widthDet);
+                System.out.println("ok (+" + (width / lengthDet) * (length / widthDet) + ") - 90deg");
             } else {
                 System.out.println("not");
             }
