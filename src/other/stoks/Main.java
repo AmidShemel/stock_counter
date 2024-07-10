@@ -2,6 +2,10 @@ package other.stoks;
 
 import java.util.ArrayList;
 
+/*
+    Перебираємо список наявного матеріалу (круг, кут, труба і т.д.) на складі підраховуємо скільки можливо виготовоити деталей
+ */
+
 public class Main {
     public static void main (String[] args){
 
